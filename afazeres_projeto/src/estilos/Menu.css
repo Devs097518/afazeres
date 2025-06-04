@@ -1,0 +1,37 @@
+
+.caixa{
+    width: 400px;
+    height: 200px;
+    background-color: orange;
+    margin-bottom: 10px;
+    text-align: center;
+    border: 1px black solid;
+    padding: 10px;
+}
+
+.caixas{
+    width: 400px;
+    min-height: 100px;
+    background-color: rgb(255, 202, 105);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    margin-bottom: 10px;
+    border: 1px black solid;
+    padding: 10px;
+}
+
+.titulo{
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+ol{
+    padding: 0;
+}
